@@ -1,12 +1,12 @@
 # This website is currently under construction. Estimate to be ready by the end of the week (2/19/2022).
 
 [home](index.md) | [Bio](bio.md) | [Miscellaneous](misc.md) | [Career](career.md) | [Resume/CV](assets/Chen_Chloe_resume.pdf)
------
+
 ### About Me
 My name is Chloe Chen, and I am a fourth-year student at Carnegie Mellon University. I major in Computational Neuroscience with a minor in Computational Biology. I am currently looking for full-time positions after graduation (May 2022). Please take a look at the [Bio](bio.md) section to learn more about me or go straight into the [Career](career.md) section for a professional introduction.
 
 ### Contact
-email: [tcchen@andrew.cmu.edu](tcchen@andrew.cmu.edu)
+email: [tcchen@andrew.cmu.edu](mailto:tcchen@andrew.cmu.edu)  
 LinkedIn: [My Profile](https://www.linkedin.com/in/twc22/)
 
 ### Personal Updates as of 02/14/2022
