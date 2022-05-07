@@ -1,6 +1,6 @@
-[home](index.md) | [Bio](bio.md) | [Miscellaneous](misc.md) | [Career](career.md) | [Resume/CV](assets/Chen_Chloe_resume.pdf)
+[home](index.md) | [Bio](bio.md) | [Miscellaneous](misc.md) | [Career](career.md)
 
-I grew up in Taipei, Taiwan. In 2012, my family moved to Lexington, MA, and I attended Northfield Mount Hermon School in Mount Hermon, MA from 2014 to 2018. I had a lot of fun at NMH and participated in many extracurriculars. I am currently enjoying the city of Pittsburgh, Pennsylvania as a Carnegie Mellon student and am looking forward to relocating to Austin, Texas this summer.  
+I grew up in Taipei, Taiwan. In 2012, my family moved to Lexington, MA, and I attended Northfield Mount Hermon School in Mount Hermon, MA from 2014 to 2018. I am currently enjoying the city of Pittsburgh, Pennsylvania but am looking forward to relocating to Austin, Texas this summer.  
 
 In my spare time, I play a LOT of ultimate frisbee. I have been playing since I was 14 and absolutely love the sport. I enjoy every second on the field. Tournaments are one of the best parts of ultimate in my opinion as I get to spend time with my teammates and be in a competitive yet friendly and fun-loving environment. I was part of the CMU Money Mellons all four years.  
 
