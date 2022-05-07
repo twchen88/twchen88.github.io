@@ -1,12 +1,12 @@
 [home](index.md) | [Bio](bio.md) | [Miscellaneous](misc.md) | [Career](career.md) | [Resume/CV](assets/Chen_Chloe_resume.pdf)
 
-I grew up in Taipei, Taiwan. In 2012, my family moved to Lexington, MA, and I attended Northfield Mount Hermon School in Mount Hermon, MA from 2014. I had a lot of fun at NMH and participated in many extracurriculars. I am currently enjoying the city of Pittsburgh as a Carnegie Mellon student.  
+I grew up in Taipei, Taiwan. In 2012, my family moved to Lexington, MA, and I attended Northfield Mount Hermon School in Mount Hermon, MA from 2014 to 2018. I had a lot of fun at NMH and participated in many extracurriculars. I am currently enjoying the city of Pittsburgh, Pennsylvania as a Carnegie Mellon student and am looking forward to relocating to Austin, Texas this summer.  
 
-In my spare time, I play a LOT of ultimate frisbee. I have been playing since I was 14 and absolutely love the sport. I enjoy every second on the field. Tournaments are one of the best parts of ultimate in my opinion as I get to spend time with my teammates and be in a competitive yet friendly and fun-loving environment. My college team, the Money Mellons, is the best team I've ever been on, including other sports I've played in the past. Off the field, We spend half our time together playing crosswords (wordle is a new obsession) and laughing with each other and half trying to actually do work.  
+In my spare time, I play a LOT of ultimate frisbee. I have been playing since I was 14 and absolutely love the sport. I enjoy every second on the field. Tournaments are one of the best parts of ultimate in my opinion as I get to spend time with my teammates and be in a competitive yet friendly and fun-loving environment. I was part of the CMU Money Mellons all four years.  
 
 ![Me on the field](/assets/ultimate.JPG)  
 
-I also love reading. Follow me on [StoryGraph](https://app.thestorygraph.com/profile/twchen88)! I have been an avid reader since I first started learning how to recognize words. Fantasy, sci-fi, historical fictions are my favorite genres, but I will forever have a soft spot for young adult books (The Hunger Games and the Harry Potter series will remain my guilty pleasure).  
+I also love reading. Follow me on [StoryGraph](https://app.thestorygraph.com/profile/clotw)! I have been an avid reader since I first started learning how to recognize words. Fantasy, sci-fi, historical fictions are my favorite genres, but I will forever have a soft spot for young adult books (The Hunger Games and the Harry Potter series will remain my guilty pleasure).  
 
 This past year, I also picked up skating. I am admittedly not the best at it and can barely ollie. Shuv-it's are 50-50. Definitely blaming my lack of skills on the inconsistent skating schedule. I plan to skate more in 2022, and my goal is to finally learn to kickflip by the end of the year.  
 
